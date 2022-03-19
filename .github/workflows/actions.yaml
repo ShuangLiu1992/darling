@@ -1,6 +1,6 @@
 name: Darling CI
 
-on: [workflow_dispatch]
+on: [push]
 
 jobs:
   upload-src:
